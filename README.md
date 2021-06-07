@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Paulo Ricardo 
  <div>
   <a href="https://github.com/paulo2308">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulo2308&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo2308&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulo2308&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo2308&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
