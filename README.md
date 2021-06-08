@@ -13,7 +13,6 @@
   <img align="right" alt="Rafa-yoda" src="https://gif-avatars.com/img/150x150/yoda-1.gif">
 </div>
   
-  ##
  
 <div> 
   <a href = "mailto: paulo-ricardo_23@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a>
