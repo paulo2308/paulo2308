@@ -17,7 +17,7 @@
  
 <div> 
   <a href="mailto: paulo-ricardo_23@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-eng/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/paulo-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/paulo2308/paulo2308/blob/output/github-contribution-grid-snake.svg)
  
